@@ -10,7 +10,7 @@
 - Cable management clips https://www.thingiverse.com/thing:2960375
 - Webcam from an old laptop with 3D-printed housing mounted to Z-axis
 - RPi with OctoPrint. Custom housing including power converters for fans, lighting and RPi. Relays for controlling lighting and fans through OctoPrint.
-- BLTouch auto bed leveling sensor
+- BLTouch auto bed leveling sensor https://creality3d.shop/products/creality3d-bl-touch-auto-bed-leveling-sensor-for-cr-10-ender-3-ender-3-pro
 ![Ender 3 Pro](https://raw.githubusercontent.com/hyotynen/Ender-3-Pro/master/3D%20Model/Ender%203%20Pro%20Customized.png?raw=true "Ender 3 Pro Customized")
 
 ## Stock model (SolidWorks, STP, IGS)
