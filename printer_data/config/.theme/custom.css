@@ -34,11 +34,11 @@
   border-radius:0;
   box-shadow: none !important;
 }
-
+*/
 .v-card>*:last-child:not(.v-btn):not(.v-chip):not(.v-avatar) {
   transition: all 0.4s cubic-bezier(0.7,0,0.0,1.0) !important;
 }
-*/
+
 .v-application .panel{
   border-color: #555555!important;
   background-color: rgba(0, 0, 0, 0.85)  !important;
