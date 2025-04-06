@@ -59,11 +59,11 @@
   background: #FFFFFF;
   transition: all 0.4s cubic-bezier(0.7,0,0.0,1.0) !important;
 }
-
+*/
 .v-main .v-tabs {
   background-color: transparent !important;
 }
-
+/*
 .v-main .v-tabs div:not(.v-tabs-slider-wrapper){
   background-color: transparent !important;
 }
