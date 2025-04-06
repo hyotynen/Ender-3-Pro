@@ -48,7 +48,7 @@
   border-left: 0 solid transparent;
   padding-left: 16px;
 }
-
+*/
 .active-nav-item[data-v-57379e73]{
   padding-left: 12px;
   border-right: none;
@@ -59,7 +59,7 @@
   background: #FFFFFF;
   transition: all 0.4s cubic-bezier(0.7,0,0.0,1.0) !important;
 }
-*/
+
 .v-main .v-tabs {
   background-color: transparent !important;
 }
