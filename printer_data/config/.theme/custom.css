@@ -27,7 +27,7 @@
 .v-application .panel{
   border-color: #555555!important;
   background-color: rgba(0, 0, 0, 0.85)  !important;
-  border-radius: 15px;
+  border-radius: 5px;
 }
 
 .v-list-item{
