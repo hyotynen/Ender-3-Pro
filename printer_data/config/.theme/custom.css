@@ -11,6 +11,7 @@
 }
 
 .v-image__image .v-image__image--cover{
+  background-image: none !impotant;
   box-shadow: none !important;
   background-color: rgba(0,0,0,0.5) !important;
   border-bottom: 1px solid #888888;
