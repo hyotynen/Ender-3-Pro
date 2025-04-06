@@ -10,7 +10,7 @@
   background: transparent;
 }
 
-.v-image__image .v-image__image--cover{
+.v-image__image .v-image__image--cover .v-navigation-drawer__image .v-image .v-responsive .theme--dark{
   background-image: none !impotant;
   box-shadow: none !important;
   background-color: rgba(0,0,0,0.5) !important;
