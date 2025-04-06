@@ -120,12 +120,12 @@
 }
 
 
-.theme--dark.v-app-bar.v-toolbar.v-sheet {
+v-app-bar.v-toolbar.v-sheet {
     background-color: rgba(0, 0, 0, 0.32)!important;
     backdrop-filter: blur(10px);
 }
 
-.theme--dark.v-navigation-drawer,
+.v-navigation-drawer,
 .v-color-picker__controls {
     background: rgba(0, 0, 0, 0.32);
     backdrop-filter: blur(10px);
