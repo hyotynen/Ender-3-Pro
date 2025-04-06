@@ -154,6 +154,7 @@
 .v-navigation-drawer__border {
     width: 0;
 }
+*/
 
 .theme--dark.v-app-bar.v-toolbar.v-sheet {
     background-color: rgba(0, 0, 0, 0.32)!important;
@@ -165,7 +166,7 @@
     background: rgba(0, 0, 0, 0.32);
     backdrop-filter: blur(10px);
 }
-
+/*
 .v-application .panel {
     background-color: rgba(0, 0, 0, 0.48)!important;
     backdrop-filter: blur(10px);
