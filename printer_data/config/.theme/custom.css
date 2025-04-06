@@ -129,16 +129,6 @@
 }
 
 
-
-/*
-.theme--dark.v-sheet {
-    background-color: rgba(0, 0, 0, 0.44)!important;
-    border: none!important;
-    box-shadow: none!important;
-}
-
-*/
-
 .theme--dark.v-application,
 .theme--dark.v-navigation-drawer,
 .v-navigation-drawer__image>.v-image>.v-image__image.v-image__image--cover {
@@ -147,16 +137,10 @@
     border: none!important;
     box-shadow: none!important;
 }
-
 /*
-.theme--dark.v-app-bar.v-toolbar.v-sheet {
-    background-color: rgba(0, 0, 0, 0.32)!important;
-    backdrop-filter: blur(10px);
-}
-*/
-
 .theme--dark.v-navigation-drawer,
 .v-color-picker__controls {
     background: rgba(0, 0, 0, 0.32);
     backdrop-filter: blur(10px);
 }
+*/
