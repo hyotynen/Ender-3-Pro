@@ -21,7 +21,7 @@
 .topbar div{
   background: transparent;
 }
-*/
+
 .v-application--wrap .v-navigation-drawer{
   height: 100vh !important;
   top: 100px !important; 
@@ -117,10 +117,10 @@
   background-size: 10px 10px !important;
 }
 .v-main__wrap .v-card .v-toolbar__content .v-toolbar__items{
-/*   background: rgba(18,18,18, 0.4) !important; */
+
 }
 .v-main__wrap .v-card .v-toolbar__title {
-/*   background: rgba(18,18,18, 0.4) !important; */
+
   color: white !important;
   padding: 10px
 }
@@ -133,3 +133,4 @@
   backdrop-filter: blur(40px) !important;
   -webkit-backdrop-filter: blur(40px) !important;
 }
+*/
