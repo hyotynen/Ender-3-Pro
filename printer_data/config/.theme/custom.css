@@ -82,7 +82,7 @@
 .v-data-table>.v-data-table__wrapper>table>tr {
   background-color: transparent;
 }
-/*
+
 .v-item-group > div{
   transition: all 0.4s cubic-bezier(0.7,0,0.0,1.0) !important;
 }
@@ -133,4 +133,3 @@
   backdrop-filter: blur(40px) !important;
   -webkit-backdrop-filter: blur(40px) !important;
 }
-*/
