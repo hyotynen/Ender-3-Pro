@@ -7,7 +7,7 @@
   backdrop-filter: blur(40px);
   -webkit-backdrop-filter: blur(40px);
 }
-*/
+
 
 .v-main{
   padding-top: 100px!important;
@@ -21,7 +21,7 @@
 .topbar div{
   background: transparent;
 }
-
+*/
 .v-application--wrap .v-navigation-drawer{
   height: 100vh !important;
   top: 100px !important; 
