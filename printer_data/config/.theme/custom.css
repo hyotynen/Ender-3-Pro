@@ -10,6 +10,7 @@
   background: transparent;
 }
 
+/*
 .v-image__image .v-image__image--cover .v-navigation-drawer__image .v-image .v-responsive .theme--dark{
   background-image: none !impotant;
   box-shadow: none !important;
@@ -18,6 +19,7 @@
   backdrop-filter: blur(40px);
   -webkit-backdrop-filter: blur(40px);
 }
+*/
 
 .v-application--wrap .v-navigation-drawer{
   transition: all 0.4s cubic-bezier(0.7,0,0.0,1.0) !important;
@@ -124,4 +126,45 @@
 .v-responsive__content .v-card__title {
   backdrop-filter: blur(40px) !important;
   -webkit-backdrop-filter: blur(40px) !important;
+}
+
+
+
+
+.theme--dark.v-sheet {
+    background-color: rgba(0, 0, 0, 0.44)!important;
+    /*backdrop-filter: blur(10px);*/
+    border: none!important;
+    box-shadow: none!important;
+}
+
+.theme--dark.v-application,
+.theme--dark.v-navigation-drawer,
+.v-navigation-drawer__image>.v-image>.v-image__image.v-image__image--cover {
+    background: transparent;
+    background-image: none!important;
+    border: none!important;
+    box-shadow: none!important;
+}
+
+.v-navigation-drawer__border {
+    width: 0;
+}
+
+.theme--dark.v-app-bar.v-toolbar.v-sheet {
+    background-color: rgba(0, 0, 0, 0.32)!important;
+    backdrop-filter: blur(10px);
+}
+
+.theme--dark.v-navigation-drawer,
+.v-color-picker__controls {
+    background: rgba(0, 0, 0, 0.32);
+    backdrop-filter: blur(10px);
+}
+
+.v-application .panel {
+    background-color: rgba(0, 0, 0, 0.48)!important;
+    backdrop-filter: blur(10px);
+    box-shadow: none!important;
+    border: none;
 }
