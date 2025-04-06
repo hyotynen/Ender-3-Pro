@@ -38,7 +38,7 @@
 .v-card>*:last-child:not(.v-btn):not(.v-chip):not(.v-avatar) {
   transition: all 0.4s cubic-bezier(0.7,0,0.0,1.0) !important;
 }
-
+*/
 .v-application .panel{
   border-color: #555555!important;
   background-color: transparent !important;
@@ -48,7 +48,7 @@
   border-left: 0 solid transparent;
   padding-left: 16px;
 }
-*/
+
 .active-nav-item[data-v-57379e73]{
   padding-left: 12px;
   border-right: none;
