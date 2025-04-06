@@ -27,6 +27,7 @@
 .v-application .panel{
   border-color: #555555!important;
   background-color: rgba(0, 0, 0, 0.85)  !important;
+  border-radius: 15px;
 }
 
 .v-list-item{
@@ -101,11 +102,8 @@
                                      var(--v-secondary-darken1) 0, var(--v-secondary-darken1) 10%, transparent 10%, transparent 50%, var(--v-secondary-darken1) 50%, var(--v-secondary-darken1) 60%, transparent 60%, transparent) !important;
   background-size: 10px 10px !important;
 }
-.v-main__wrap .v-card .v-toolbar__content .v-toolbar__items{
 
-}
 .v-main__wrap .v-card .v-toolbar__title {
-
   color: white !important;
   padding: 10px
 }
@@ -118,23 +116,3 @@
   backdrop-filter: blur(40px) !important;
   -webkit-backdrop-filter: blur(40px) !important;
 }
-
-/*
-v-app-bar.v-toolbar.v-sheet {
-    background-color: rgba(0, 0, 0, 0.32)!important;
-    backdrop-filter: blur(10px);
-}
-
-.v-navigation-drawer,
-.v-color-picker__controls {
-    background: rgba(0, 0, 0, 0.32);
-    backdrop-filter: blur(10px);
-}
-
-.v-application .panel {
-    background-color: rgba(0, 0, 0, 0.48)!important;
-    backdrop-filter: blur(10px);
-    box-shadow: none!important;
-    border: none;
-}
-*/
