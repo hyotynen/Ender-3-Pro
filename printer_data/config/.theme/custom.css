@@ -22,9 +22,6 @@
 }
 
 .v-application--wrap .v-navigation-drawer{
-  height: 100vh !important;
-  top: 100px !important; 
-  max-height: calc(100% - 100px) !important; 
   transition: all 0.4s cubic-bezier(0.7,0,0.0,1.0) !important;
 }
 
