@@ -10,6 +10,14 @@
   background: transparent;
 }
 
+v-navigation-drawer__image{
+  box-shadow: none !important;
+  background-color: rgba(0,0,0,0.5) !important;
+  border-bottom: 1px solid #888888;
+  backdrop-filter: blur(40px);
+  -webkit-backdrop-filter: blur(40px);
+}
+
 .v-application--wrap .v-navigation-drawer{
   transition: all 0.4s cubic-bezier(0.7,0,0.0,1.0) !important;
 }
