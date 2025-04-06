@@ -1,6 +1,10 @@
+
 .topbar{
   box-shadow: none !important;
-  background-color: rgba(0,0,0,0.85) !important;
+  background-color: rgba(0,0,0,0.3) !important;
+  border-bottom: 1px solid #888888;
+  backdrop-filter: blur(40px);
+  -webkit-backdrop-filter: blur(40px);
 }
 /*
 
