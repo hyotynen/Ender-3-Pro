@@ -41,7 +41,7 @@
 */
 .v-application .panel{
   border-color: #555555!important;
-  background-color: transparent !important;
+  background-color: rgba(255, 0, 0, 0.3)  !important;
 }
 
 .v-list-item{
