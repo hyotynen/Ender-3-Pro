@@ -137,6 +137,7 @@
     box-shadow: none!important;
 }
 
+*/
 
 .theme--dark.v-application,
 .theme--dark.v-navigation-drawer,
@@ -147,9 +148,9 @@
     box-shadow: none!important;
 }
 
-*/
 
 
+/*
 .v-navigation-drawer__border {
     width: 0;
 }
@@ -171,3 +172,5 @@
     box-shadow: none!important;
     border: none;
 }
+
+*/
