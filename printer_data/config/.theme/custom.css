@@ -38,12 +38,12 @@
 .v-card>*:last-child:not(.v-btn):not(.v-chip):not(.v-avatar) {
   transition: all 0.4s cubic-bezier(0.7,0,0.0,1.0) !important;
 }
-
+*/
 .v-application .panel{
   border-color: #555555!important;
   background-color: transparent !important;
 }
-*/
+
 .v-list-item{
   border-left: 0 solid transparent;
   padding-left: 16px;
